@@ -1,4 +1,4 @@
-#Skip Brewer Windows 10 Image
+# Skip Brewer Windows 10 Image
 Local Policy - Security Options
 1	Accounts: Guest account status	Disabled
 2	Devices: Prevent users from installing printer drivers	Enabled
